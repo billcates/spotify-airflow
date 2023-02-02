@@ -48,3 +48,4 @@ def create_dataframe():
     print(len(song_df))
     return song_df
         
+create_dataframe()
